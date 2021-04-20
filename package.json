@@ -1,5 +1,5 @@
 {
-  "name": "vue3asyncpipeexample",
+  "name": "vue3-async-pipe-example",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
